@@ -564,5 +564,3 @@ function fecharSurpresa() {
 
 </script>
 
-</body>
-</html>
